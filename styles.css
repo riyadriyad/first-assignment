@@ -99,3 +99,10 @@ text-align: left;
     left: 0;
    margin: 170px;
 }
+/* footer */
+footer {
+    background-color: black;
+    height: 500px;
+    margin-top: 500px;
+
+}
