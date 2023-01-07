@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+/* Banner area */
+.banner {
+    background-image: url('images/banner/banner3.png');
+background-size: cover;
+height: 800px;
+}
+.banner-text {
+   text-align: right;
+   padding: 300px 200px 0 850px;
+   color: white;
+   position: absolute;
+}
+h1 {
+    font-size: 60px;
+    font-weight: 800;
+}
+h3 {
+    font-size: 30px;
+    font-weight: 700;
+}
+.btn{
+padding: 15px 30px;
+font-size: large;
+border-radius: 5px;
+border: 0;
+margin-top: 15px;
+color: rgb(44, 89, 236);
+}
+/* Main Area */
+.mid-area{
+    display: flex;
+    align-items: center;
+    margin: 100px;
+    padding: 100px;
+}
+.mid-area-2 {
+    text-align: center;
+
+}
+.head-text {
+    font-size: 40px;
+    font-weight: 800;
+    padding: 0 130px;
+}
+
+.text-1 {
+    padding: 10px 90px;
+}
+.text-2{
+    padding: 0 0 0 105px;
+}
+.text-3 {
+    color: gray;
+    font-size: 18px;
+}
+.plans {
+    display: flex;
+    justify-content: space-between;
+    margin: 60px 200px;
+}
+
+/* for icon */
+.checkmark{
+    width: 20px;
+}
+/* Decor */
+.decoration {
+ text-align: center;
+ position: absolute;
+ margin: 0 140px;
+}
+.image-1 {
+    position: relative;
+
+}
+.image-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.image-text {
+    font-size: 40px;
+    font-weight: 800;
+    padding: 20px 80px 0;
+    position: absolute;
+    top: 30px;
+    right: 0;
+text-align: left;
+    color: white;
+    margin-right: 500px;
+}
+#button {
+    position: absolute;  
+   margin: 170px 90px 0;
+   padding: 15px 30px;
+
+}
