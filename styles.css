@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Open Sans', sans-serif;
 
 }
 /* Banner area */
@@ -23,7 +24,7 @@ h3 {
     font-size: 30px;
     font-weight: 700;
 }
-.btn{
+.btn {
 padding: 15px 30px;
 font-size: large;
 border-radius: 5px;
@@ -45,7 +46,7 @@ color: rgb(44, 89, 236);
 .head-text {
     font-size: 40px;
     font-weight: 800;
-    padding: 0 130px;
+
 }
 
 .text-1 {
@@ -97,12 +98,34 @@ text-align: left;
 #button {
     position: absolute;  
     left: 0;
-   margin: 170px;
+   margin: 180px 80px;
 }
 /* footer */
 footer {
     background-color: black;
-    height: 500px;
+    height: 300px;
     margin-top: 500px;
+    color: white;
+    display: flex;
+    padding: 150px 170px 0;
 
+}
+
+
+input {
+   margin-top: 10px;
+    padding: 20px 60px;
+    border-radius: 5px;
+}
+#subscibe {
+    background-color: rgb(44, 89, 236);
+    color: white;
+}
+
+.footer-text{
+    margin: 20px 400px 20px 0;
+
+}
+.phone{
+padding: 20px 0;
 }
