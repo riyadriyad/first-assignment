@@ -96,7 +96,6 @@ text-align: left;
 }
 #button {
     position: absolute;  
-   margin: 170px 90px 0;
-   padding: 15px 30px;
-
+    left: 0;
+   margin: 170px;
 }
